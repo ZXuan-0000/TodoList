@@ -1,9 +1,3 @@
-下面给你写一份 **安卓 Todo+Note App（Java + Android Studio）** 的完整文档，**格式完全参考你的范文结构与写法**，内容贴合你现在的项目（含语音识别、SQLite、本地存储、Activity 架构等）。
-
----
-
-# 📘 **安卓 Todo + Note 应用文档（Java / Android Studio）**
-
 ## 1. 技术选型
 
 ### 编程语言
@@ -232,7 +226,6 @@ AI 给出的排查路线：
 
 **最终修复方法**：
 添加设备支持检测 + 完整语音启动逻辑
-（你现在工程已采用修复后的逻辑）
 
 ---
 
@@ -267,27 +260,6 @@ git pull origin main
 
 ---
 
-## 5. 运行与测试方式
-
-### 本地运行（Android Studio）
-
-1. 克隆项目
-
-```
-git clone https://github.com/ZXuan-0000/TodoList
-```
-
-2. 打开 Android Studio → Open → 选择项目
-
-3. 等待 Gradle Sync 完成
-
-4. 运行应用
-
-   * 选择模拟器或真机
-   * 点击 Run ▶️
-
----
-
 ### 测试过的环境
 
 | 设备               | Android 版本 | 语音识别      |
@@ -310,7 +282,7 @@ git clone https://github.com/ZXuan-0000/TodoList
 
 ---
 
-## 6. 总结与反思
+## 5. 总结与反思
 
 ### 改进方向
 
@@ -348,12 +320,3 @@ git clone https://github.com/ZXuan-0000/TodoList
 * **UI 简洁，符合移动端使用习惯**
 
 ---
-
-如果你愿意，我也可以继续帮你写：
-
-✔ **操作手册（给用户看的）**
-✔ **PPT 版文档**
-✔ **项目汇报稿**
-✔ **Markdown + PDF 格式导出**
-
-你要哪个？

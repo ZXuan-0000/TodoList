@@ -201,7 +201,7 @@ updated_at INTEGER
 
 ### 使用的 AI 工具
 
-* **Cursor**（辅助生成 Activity、Adapter、SQL 代码）
+* **Cursor**（辅助搭建安卓开发框架）
 * **ChatGPT**（负责关键逻辑、语音识别、崩溃排查）
 
 ---
@@ -238,21 +238,11 @@ AI 帮助定位问题：submitList 使用的列表未 copy，导致 DiffUtil 不
 
 ---
 
-#### 3. Git 同步问题
+### 3. AI 输出需要人为修改的地方
 
-你遇到的“本地 GitHub 克隆文件如何更新”，AI 帮助生成完整命令：
+最大的问题就是依赖下载太慢了，AI 提供的镜像配置丰富都行不通，最后还是我自己去找的对应版本的腾讯云链接解决了这个问题。
 
-```
-git pull origin main
-```
-
-并解释 fast-forward / conflict 的处理方式。
-
----
-
-### 4. AI 输出需要人为修改的地方
-
-与 Web 项目不同，AI 给的 Android 语音识别代码中：
+AI 给的 Android 语音识别代码中：
 
 * 某些手机上不支持指定语言 → 删除多余配置
 * AI 给的权限请求代码已过时 → 改为 ActivityResult API

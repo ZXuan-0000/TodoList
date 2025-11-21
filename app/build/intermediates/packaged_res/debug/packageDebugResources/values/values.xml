@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="ic_launcher_background">#6200EE</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="add_note">新增备忘录</string>
+    <string name="add_todo">新增任务</string>
+    <string name="app_name">Todo List</string>
+    <string name="edit_note">编辑备忘录</string>
+    <string name="edit_todo">编辑任务</string>
+    <string name="empty_notes">暂无备忘录，点击右下角新建。</string>
+    <string name="empty_tasks">暂无任务，点击右下角新建。</string>
+    <string name="reminder_channel_desc">用于展示待办事项提醒通知</string>
+    <string name="reminder_channel_name">任务提醒</string>
+    <string name="tab_notes">备忘录</string>
+    <string name="tab_tasks">任务</string>
+    <style name="Theme.TodoList" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+    </style>
+</resources>

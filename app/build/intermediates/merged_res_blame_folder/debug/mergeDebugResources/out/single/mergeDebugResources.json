@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "com.example.todolist.app-debug-36:/layout_item_todo.xml.flat",
+        "source": "com.example.todolist.app-main-38:/layout/item_todo.xml"
+    },
+    {
+        "merged": "com.example.todolist.app-debug-36:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.todolist.app-main-38:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.todolist.app-debug-36:/xml_backup_rules.xml.flat",
+        "source": "com.example.todolist.app-main-38:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.todolist.app-debug-36:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.example.todolist.app-main-38:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.todolist.app-debug-36:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.todolist.app-main-38:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.todolist.app-debug-36:/layout_item_note_card.xml.flat",
+        "source": "com.example.todolist.app-main-38:/layout/item_note_card.xml"
+    },
+    {
+        "merged": "com.example.todolist.app-debug-36:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.example.todolist.app-main-38:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.todolist.app-debug-36:/layout_activity_add_edit_note.xml.flat",
+        "source": "com.example.todolist.app-main-38:/layout/activity_add_edit_note.xml"
+    },
+    {
+        "merged": "com.example.todolist.app-debug-36:/layout_activity_main.xml.flat",
+        "source": "com.example.todolist.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.todolist.app-debug-36:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.todolist.app-main-38:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.todolist.app-debug-36:/layout_fragment_notes.xml.flat",
+        "source": "com.example.todolist.app-main-38:/layout/fragment_notes.xml"
+    },
+    {
+        "merged": "com.example.todolist.app-debug-36:/layout_activity_add_edit_todo.xml.flat",
+        "source": "com.example.todolist.app-main-38:/layout/activity_add_edit_todo.xml"
+    },
+    {
+        "merged": "com.example.todolist.app-debug-36:/layout_fragment_todo_list.xml.flat",
+        "source": "com.example.todolist.app-main-38:/layout/fragment_todo_list.xml"
+    },
+    {
+        "merged": "com.example.todolist.app-debug-36:/layout_item_checklist_edit.xml.flat",
+        "source": "com.example.todolist.app-main-38:/layout/item_checklist_edit.xml"
+    },
+    {
+        "merged": "com.example.todolist.app-debug-36:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.todolist.app-main-38:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.todolist.app-debug-36:/layout_item_checklist_preview.xml.flat",
+        "source": "com.example.todolist.app-main-38:/layout/item_checklist_preview.xml"
+    }
+]
